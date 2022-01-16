@@ -1,2 +1,2 @@
 # Muffin Tarifi
-![Ekran Resmi](img/muffin.png)
+![Ekran Resmi](img/muffin.jpg)

@@ -1,2 +1,2 @@
 # Muffin Tarifi
-![Ekran Resmi](img/muffin.jpg)
+![Ekran Resmi](img/kodluyoruzödev5gorsel.png)
